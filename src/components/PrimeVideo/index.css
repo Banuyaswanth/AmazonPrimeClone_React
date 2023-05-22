@@ -1,0 +1,11 @@
+.image {
+  width: 100%;
+  flex-shrink: 1;
+}
+.prime-video {
+  background-color: #000000;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+}
